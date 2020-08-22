@@ -1,0 +1,1 @@
+file -b --mime-type FILENAME # Retorna o tipo de arquivo e sua extensão, ex: FILE/EX
