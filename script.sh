@@ -1,4 +1,7 @@
 #!/bin/bash
+# desenvolvido por João Paulo de Souza e Leandro Souza Pinheiro
+# alunos do IFMG campus Formiga, curso de Ciência da Computação, turma 2017-1.
+
 # método para organizar por tipo(mime)
 organizeByType() {
     # comando para buscar todos os arquivos do diretorio
